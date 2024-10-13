@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unidades</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="etNum">Numero de 100 a 999</string>
+    <string name="btnVer">Verificar</string>
+    <string name="tvCent">Centenas: </string>
+    <string name="tvDez">Dezenas: </string>
+    <string name="tvUni">Unidades: </string>
+    <string name="numInvalido">Numero Invalido!</string>
+
+</resources>
